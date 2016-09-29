@@ -1,0 +1,451 @@
+fileFormatVersion: 2
+guid: facbe8acc9fcd3d49b460e20301cbaf4
+timeCreated: 1474466525
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Android_noborders_0
+    21300002: Android_noborders_1
+    21300004: Android_noborders_2
+    21300006: Android_noborders_3
+    21300008: Android_noborders_4
+    21300010: Android_noborders_5
+    21300012: Android_noborders_6
+    21300014: Android_noborders_7
+    21300016: Android_noborders_8
+    21300018: Android_noborders_9
+    21300020: Android_noborders_10
+    21300022: Android_noborders_11
+    21300024: Android_noborders_12
+    21300026: Android_noborders_13
+    21300028: Android_noborders_14
+    21300030: Android_noborders_15
+    21300032: Android_noborders_16
+    21300034: Android_noborders_17
+    21300036: Android_noborders_18
+    21300038: Android_noborders_19
+    21300040: Android_noborders_20
+    21300042: Android_noborders_21
+    21300044: Android_noborders_22
+    21300046: Android_noborders_23
+    21300048: Android_noborders_24
+    21300050: Android_noborders_25
+    21300052: Android_noborders_26
+    21300054: Android_noborders_27
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Android_noborders_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150.83333
+        width: 41.166668
+        height: 30.166666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Android_noborders_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 150.83333
+        width: 41.166668
+        height: 30.166666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Android_noborders_2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 150.83333
+        width: 41.166668
+        height: 30.166666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Android_noborders_3
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 150.83333
+        width: 41.166668
+        height: 30.166666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Android_noborders_4
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 150.83333
+        width: 41.166668
+        height: 30.166666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Android_noborders_5
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 150.83333
+        width: 41.166668
+        height: 30.166666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Android_noborders_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120.833336
+        width: 41.166668
+        height: 30.166666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Android_noborders_7
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 120.833336
+        width: 41.166668
+        height: 30.166666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Android_noborders_8
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 120.833336
+        width: 41.166668
+        height: 30.166666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Android_noborders_9
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 120.833336
+        width: 41.166668
+        height: 30.166666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Android_noborders_10
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 120.833336
+        width: 41.166668
+        height: 30.166666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Android_noborders_11
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 120.833336
+        width: 41.166668
+        height: 30.166666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Android_noborders_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 90.833336
+        width: 41.166668
+        height: 30.166666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Android_noborders_13
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 90.833336
+        width: 41.166668
+        height: 30.166666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Android_noborders_14
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 90.833336
+        width: 41.166668
+        height: 30.166666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Android_noborders_15
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 90.833336
+        width: 41.166668
+        height: 30.166666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Android_noborders_16
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 90.833336
+        width: 41.166668
+        height: 30.166666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Android_noborders_17
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 90.833336
+        width: 41.166668
+        height: 30.166666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Android_noborders_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60.833336
+        width: 41.166668
+        height: 30.166666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Android_noborders_19
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 60.833336
+        width: 41.166668
+        height: 30.166666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Android_noborders_20
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 60.833336
+        width: 41.166668
+        height: 30.166666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Android_noborders_21
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 60.833336
+        width: 41.166668
+        height: 30.166666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Android_noborders_22
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 60.833336
+        width: 41.166668
+        height: 30.166666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Android_noborders_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 30.833334
+        width: 41.166668
+        height: 30.166666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Android_noborders_24
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 30.833334
+        width: 41.166668
+        height: 30.166666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Android_noborders_25
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 30.833334
+        width: 41.166668
+        height: 30.166666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Android_noborders_26
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 0.83333397
+        width: 41.166668
+        height: 30.166666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Android_noborders_27
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 0.83333397
+        width: 41.166668
+        height: 30.166666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
